@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container-home {
+    background-image: url('nxtwave/flats-list-bg.png');
+    background-size: cover;
+    height: 100vh;
+    font-family: Bree Serif;
+    text-align: center;
+}
+
+.bg-container-details {
+    background-color: #222222;
+    background-size: cover;
+    height: 100vh;
+    font-family: Bree Serif;
+    text-align: left;
+}
+
+.home-box {
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 100vw;
+    height: 30vh;
+    padding: 20px;
+}
+
+.detail-box {
+    border-radius: 10px;
+    background-color: white;
+    text-align: left;
+    margin: 10px;
+    height: 25vh;
+}
+
+.home-head {
+    color: #f19116;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.home-para {
+    color: #7b8794;
+    font-size: 12px;
+    margin: 5px;
+}
+
+.button {
+    background-color: #f19116;
+    color: white;
+    height: 30px;
+    width: 100px;
+    border-style: none;
+    border-radius: 5px;
+    font-family: Times New Roman;
+    margin: 10px;
+}
+
+.margin {
+    margin: 10px;
+}
+
+.logo-img {
+    height: 25vh;
+    width: 40vw;
+}
+
+.detail-head {
+    font-weight: bold;
+    font-size: 22px;
+    color: black;
+}
+
+.detail-para {
+    font-size: 15px;
+    color: white;
+}
+
+.detail-img {
+    width: 100vw;
+    height: 40vh;
+}
+
+.location {
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+}
+
+.white {
+    color: white;
+}
